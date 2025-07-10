@@ -1,0 +1,62 @@
+PRACTICE QUESTIONS: CONDITINAL STATEMENTS
+
+You have a variable age. Write a conditional statement to check if age is greater than or equal to 18. If true, print "You are an adult", otherwise print "You are a minor".
+
+Given a variable temperature, write a conditional statement to check if temperature is below 0. If true, print "It's freezing", otherwise print "It's not freezing".
+
+You have a variable score. Write a conditional statement to check if score is greater than 90. If true, print "Grade A", if score is between 80 and 90, print "Grade B", otherwise print "Grade C".
+
+Given two variables a and b, write a conditional statement to check if a is equal to b. If true, print "a and b are equal", otherwise print "a and b are not equal".
+
+You have a variable number. Write a conditional statement to check if number is even or odd. If even, print "Even number", otherwise print "Odd number".
+
+Given a variable day which can be any day of the week, write a conditional statement to print "Weekend" if the day is "Saturday" or "Sunday", otherwise print "Weekday".
+
+You have a variable marks. Write a conditional statement to check if marks are greater than 75. If true, print "Distinction", if marks are between 50 and 75, print "Pass", otherwise print "Fail".
+
+Given a variable speed, write a conditional statement to check if speed is greater than 120. If true, print "Over speed limit", otherwise print "Within speed limit".
+
+You have a variable year. Write a conditional statement to check if year is a leap year. If true, print "Leap year", otherwise print "Not a leap year".
+
+Given a variable char, write a conditional statement to check if char is a vowel (a, e, i, o, u). If true, print "Vowel", otherwise print "Consonant".
+
+You have two variables x and y. Write a conditional statement to check if both x and y are positive. If true, print "Both are positive", otherwise print "At least one is not positive".
+
+Given a variable time representing the hour of the day in 24-hour format, write a conditional statement to print "Good morning" if time is between 6 and 12, "Good afternoon" if time is between 12 and 18, and "Good evening" if time is between 18 and 24.
+
+You have a variable budget and a variable price. Write a conditional statement to check if budget is greater than or equal to price. If true, print "Purchase possible", otherwise print "Not enough budget".
+
+Given a variable username, write a conditional statement to check if username is not empty. If true, print "Username is valid", otherwise print "Username cannot be empty".
+
+You have a variable weight and a variable height. Write a conditional statement to calculate BMI and print "Underweight" if BMI is less than 18.5, "Normal weight" if BMI is between 18.5 and 24.9, and "Overweight" if BMI is 25 or above.
+
+Given a variable password, write a conditional statement to check if the length of password is greater than or equal to 8. If true, print "Strong password", otherwise print "Weak password".
+
+You have a variable grade. Write a conditional statement to print "Excellent" if grade is 'A', "Good" if grade is 'B', "Average" if grade is 'C', and "Poor" if grade is 'D'.
+
+Given a variable month, write a conditional statement to check if month is "December", "January", or "February". If true, print "Winter", if month is "June", "July", or "August", print "Summer", otherwise print "Other season".
+
+You have a variable balance. Write a conditional statement to check if balance is greater than or equal to 1000. If true, print "Sufficient balance", otherwise print "Insufficient balance".
+
+Given a variable number, write a conditional statement to check if number is positive, negative, or zero. Print "Positive", "Negative", or "Zero" accordingly.
+
+You have a variable ticket_type. Write a conditional statement to check if ticket_type is "VIP". If true, print "Access to VIP lounge", otherwise print "Regular access".
+
+Given a variable age, write a conditional statement to print "Eligible for senior citizen discount" if age is 65 or above.
+
+You have a variable color. Write a conditional statement to print "Stop" if color is "Red", "Ready" if color is "Yellow", and "Go" if color is "Green".
+
+Given a variable temperature, write a conditional statement to check if temperature is above 100. If true, print "Boiling point", otherwise print "Below boiling point".
+
+You have a variable loan_amount. Write a conditional statement to check if loan_amount is greater than 50000. If true, print "Approval requires higher authority", otherwise print "Loan approved".
+
+Given a variable attendance, write a conditional statement to check if attendance is greater than 75%. If true, print "Eligible to appear in exam", otherwise print "Not eligible to appear in exam".
+
+You have a variable membership_status. Write a conditional statement to print "Premium member" if membership_status is "Gold", "Regular member" if membership_status is "Silver", and "Basic member" if membership_status is "Bronze".
+
+Given a variable age, write a conditional statement to check if age is between 13 and 19. If true, print "Teenager", otherwise print "Not a teenager".
+
+You have a variable income. Write a conditional statement to print "High income" if income is above 100000, "Middle income" if income is between 50000 and 100000, and "Low income" if income is below 50000.
+
+Given a variable fuel_level, write a conditional statement to check if fuel_level is less than 10%. If true, print "Low fuel warning", otherwise print "Fuel level sufficient".
+
